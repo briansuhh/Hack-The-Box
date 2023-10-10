@@ -59,7 +59,7 @@ get
 	# the flag.txt file will be stored to our machine's download directory
 	```
 12. Submit root flag
-
+035db21c881520061c53e0536e44f815
 	```bash
 	# go to ~/Downloads directory and display the contents of flag.txt
 	cs ~/Downloads
