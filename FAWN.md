@@ -22,9 +22,10 @@ ping
 
 5. From your scans, what version is FTP running on the target?<br>
 vsftpd 3.0.3
-
-	- nmap -p 21 -sV 10.129.130.158
-	- this command will check the opened services on port 21 of 10.129.130.158
+	```bash
+	nmap -p 21 -sV 10.129.130.158
+	# this command will check the opened services on port 21 of 10.129.130.158
+	```
 
 6. From your scans, what OS type is running on the target?<br>
 unix
