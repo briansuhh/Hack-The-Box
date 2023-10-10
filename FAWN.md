@@ -1,4 +1,4 @@
-#### Guide on the Meow CTB
+#### Guide on FAWN CTF Machine
 
 #####  File Transfer Protocol (ftp) is used for sharing files over a Transmission Control Protocol/Internet Protocol (TCP/IP)-based network like LAN or the internet. The default port of ftp is port 21.
 
