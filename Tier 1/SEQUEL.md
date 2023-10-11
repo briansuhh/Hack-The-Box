@@ -1,6 +1,6 @@
 #### Guide on SEQUEL CTF Machine
 
-##### These are the default databases that are created automatically to support the database management system's functionality.
+##### These are the default databases that are created automatically to support the database management system's functionality:
 
 ##### mysql: The mysql database contains system tables that store metadata and access control information. It is used for user and privilege management. 
 
