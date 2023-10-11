@@ -1,16 +1,14 @@
 #### Guide on SEQUEL CTF Machine
 
-##### When you install a fresh instance of MariaDB, there are typically several default databases that are created to manage various aspects of the database system and perform essential functions. These default databases include:
+##### These are the default databases that are created automatically to support the database management system's functionality.
 
-##### mysql: The mysql database contains system tables that store metadata and access control information. It is used for user and privilege management. The user table, for example, stores user account information, and the db table stores information about databases and access permissions.
+##### mysql: The mysql database contains system tables that store metadata and access control information. It is used for user and privilege management. 
 
-##### information_schema: The information_schema database provides information about the database server and its schemas, tables, columns, and more. It is a system database that is used for querying metadata about the database server.
+##### information_schema: The information_schema database provides information about the database server and its schemas, tables, columns, and more. 
 
-##### performance_schema: The performance_schema database is used for performance monitoring and diagnostics. It contains various tables that help monitor server performance and resource usage. This database is primarily used for profiling and analyzing the performance of the MariaDB server.
+##### performance_schema: The performance_schema database is used for performance monitoring and diagnostics. 
 
-##### test: The test database is an empty database that may be present after installation. It is not typically used in production and is mainly for testing and experimentation.
-
-##### These default databases are essential for the functioning of the MariaDB server, as they manage user accounts, store metadata, and provide performance monitoring capabilities. When you install MariaDB, these databases are created automatically to support the database management system's core functionality.
+##### test: The test database is for testing and experimentation.
 
 1. During our scan, which port do we find serving MySQL?<br>
 3306
